@@ -53,7 +53,7 @@ setup(
     maintainer='Wes McKinney',
     maintainer_email='wes@cloudera.com',
     url='https://github.com/cloudera/thrift_sasl',
-    install_requires=requirements,
+    install_requires=[],
     packages=['thrift_sasl'],
     keywords='thrift sasl transport',
     license='Apache License, Version 2.0',
